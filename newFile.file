@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Name, date created
 Name, date created
 Name, date created
@@ -8,3 +9,10 @@ Name, date created
   "student_id": "13077419"
 }
 
+=======
+{
+  "text1": "textOne",
+  "text2": "textTwo",
+  "text3": "textThree"
+}
+>>>>>>> add newFile.file
